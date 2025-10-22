@@ -1,0 +1,33 @@
+{
+  "Summary": "Ravi, please submit the report by Friday. Priya, prepare the presentation by next Monday. Team, review the plan by October 18, 2025. Sara, draft the email tomorrow.",
+  "To-Do List": [
+    {
+      "Task": "Submit report",
+      "Assigned To": "Ravi",
+      "Deadline": "2025-10-24",
+      "Priority": "Low",
+      "Progress": "Not Started"
+    },
+    {
+      "Task": "Prepare presentation",
+      "Assigned To": "Priya",
+      "Deadline": "2025-10-21",
+      "Priority": "Medium",
+      "Progress": "Not Started"
+    },
+    {
+      "Task": "Review plan",
+      "Assigned To": "Team",
+      "Deadline": "2025-10-18",
+      "Priority": "High",
+      "Progress": "Not Started"
+    },
+    {
+      "Task": "Draft email",
+      "Assigned To": "Sara",
+      "Deadline": "2025-10-18",
+      "Priority": "High",
+      "Progress": "Not Started"
+    }
+  ]
+}

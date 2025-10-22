@@ -1,0 +1,11 @@
+streamlit
+pyaudio
+spacy
+transformers
+torch
+google-auth
+google-auth-oauthlib
+google-api-python-client
+matplotlib
+pandas
+streamlit-extras
